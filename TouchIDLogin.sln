@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchIDLogin", "TouchIDLogin\TouchIDLogin.csproj", "{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.Release|iPhone.Build.0 = Release|iPhone
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DE4F79DE-2DE8-4E68-91E4-C7BDCF0B04EF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TouchIDLogin\TouchIDLogin.csproj
+	EndGlobalSection
+EndGlobal
